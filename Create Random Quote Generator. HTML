@@ -1,0 +1,29 @@
+<html>
+
+<body>
+  <center>
+    <div id="time"></div>
+  </center>
+  <h1>Random Quote Generator</h1>
+  <div class="bss-slides demo1" tabindex="1" autofocus="autofocus">
+    <figure>
+      <img src="https://s-media-cache-ak0.pinimg.com/originals/7c/43/6d/7c436db6400b75577f7c9ab7a6968eee.jpg" width="100%" /></figure>
+    <figure><img src="http://www.walldevil.com/wallpapers/a88/wallpaper-scenery-anime-beach-bigest-images.jpg" width="100%" /></figure>
+    <figure><img src="http://eskipaper.com/images/anime-city-wallpaper-1.jpg" width="100%" /></figure>
+    <figure><img src="http://www.pixelstalk.net/wp-content/uploads/2016/10/HD-Anime-Backgrounds-Download.jpg" width="100%" /></figure>
+    <figure><img src="http://hdlatestwallpapers.com/wp-content/uploads/2013/09/Fantasy-Anime-Stars-Space-Outer-Background.jpg" width="100%" /></figure>
+    <figure><img src="https://s-media-cache-ak0.pinimg.com/originals/66/ec/e6/66ece6eb0cb72a87f57925c14e24234d.jpg" width="100%" /></figure>
+    <figure><img src="https://s-media-cache-ak0.pinimg.com/originals/72/18/da/7218da15a449e134985f46abfcd9a43e.jpg" width="100%" /></figure>
+  </div>
+  <!-- // bss-slides -->
+  <script src="http://leemark.github.io/better-simple-slideshow/demo/js/hammer.min.js"></script>
+  <!-- for swipe support on touch interfaces -->
+  <div id="display">
+    <div id="quoteDisplay">
+      <!--Quote here -->
+    </div>
+    <center>
+      <button id="btn" onclick="newQuotes()"> Random Quotes</button></center>
+</body>
+
+</html>
