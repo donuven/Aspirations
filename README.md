@@ -1,2 +1,3 @@
 # Aspirations
-Coding projects
+
+Random Quote Generator
